@@ -1,0 +1,9 @@
+# Build
+build/
+
+# Dependency managers
+.swiftpm/
+
+# Xcode project files
+xcuserdata/
+*.xcscheme
